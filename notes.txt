@@ -1,0 +1,13 @@
+single page is like one tab and multplie page is like one more tabs 
+and single page is contains a html
+what is virtual dom?
+-virtual dom is a virtual representation of a ui which is kept in a
+ memory later synced with real dom with th help of a libarary called  "reactDOM
+ - The updation of real dom with virtual DOM.
+ -the entire processs of updating the realdom  with the help of a vdom is called as "reconcialt
+
+ jsx;
+ ***
+ -jsx stands for javascriot and xml.
+ -jsx is a javascript syntax extension  used to create html-like markup in the react.
+ -actual way to create a element in react is by using a method
